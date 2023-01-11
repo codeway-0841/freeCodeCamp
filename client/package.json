@@ -77,7 +77,7 @@
     "gatsby-plugin-remove-serviceworker": "1.0.0",
     "gatsby-remark-prismjs": "4.2.0",
     "gatsby-source-filesystem": "3.2.0",
-    "gatsby-transformer-remark": "3.2.0",
+    "gatsby-transformer-remark": "5.25.1",
     "i18next": "19.9.2",
     "jquery": "3.6.0",
     "lodash": "4.17.21",
